@@ -72,6 +72,6 @@ The scatter plot below shows number of citations vs. number of publications by c
 1. The number of citations is not a static number. As these countries are publishing more papers only in recent years, we could anticipate the citation-to-publication ratio to change with time.
 2. The level of recognition for these research outcomes from these countries have not yet been comparable to that of the developed countries. This could also be partially supported by the high percentage of self-citation (citations that come from authors who were also involved in the cited article).
 
-<img src="image/Citation_total.png" width="500">
+<img src="images/Citation_total.png" width="500">
 
 _**If you would like to learn more about the analysis or would like to check out the Python codes to explore more, do not hestiate to fork the scripts. Of course, any comments (coding, analysis, interpretation, anything) would be greatlt appreciated!**_
