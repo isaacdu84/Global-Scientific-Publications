@@ -35,11 +35,25 @@ for year in yr:
         deposit = deposit.append(buffer)
 ```
 The rest of the scripts were wrangling with scraped data. If interested, please check out the jupyter notebook file in this repository.
-## Fun part - Story
-
+## The story
 ### What are the hot topics in research publications? 
 Here are the contrast between the two decades (1996-2006 vs. 2007-2016).
 
 <img src="images/WorldPubs_areaDecade1.png" width="400"><img src="images/WorldPubs_areaDecade2.png" width="400">
 
 There are some changes in the ranking of total number of publications by areas between the two decades, of course. Not surprising, with the continued prosperity of information technology and whole lot of internet-based buisness and applications, publications related to computer science was catching up pretty fast. However, some of the traditionally "publication heavy" areas such as medicine, engineering and physics remained on top of the ranking
+
+### How about the trend?
+Again, not suprising that the number of publications in each field has been steadily increasing, even veterinery, which was at the bottom of the "hot topic" list.
+
+<img src="images/PubTrend.png" width="500">
+
+### Another field of competition for big countries?
+Scientific publications are not full reprensentation of the level of science and technology research, but to large extent, they suggest the investment and dedication of a country to fundamental and applied research. 
+The United States has been the absolute leading force in the number of publications of every field. If we just compare the total number of publications for the past two decades, the US published as many research articles as the sum of China, the United Kingdom and Germany. However, this is slowly changing. China picked up the pace and is rapid catching up with the US in many areas *See below: number of the publications by country in 1996(left) and 2016(right))*
+
+<img src="images/TotPub_bubble1996.png" width="400"><img src="images/TotPub_bubble2016.png" width="400">
+
+### Shape of research
+![](images/SR_US.gif)
+<img src="images/SR_US.gif" width="400">
