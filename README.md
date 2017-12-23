@@ -36,4 +36,10 @@ for year in yr:
 ```
 The rest of the scripts were wrangling with scraped data. If interested, please check out the jupyter notebook file in this repository.
 ## Fun part - Story
-![](/images/WorldPubs_area.png =100x50)
+
+### What are the hot topics in research publications? 
+Here are the contrast between the two decades (1996-2006 vs. 2007-2016).
+
+<img src="images/WorldPubs_areaDecade1.png" width="400"><img src="images/WorldPubs_areaDecade2.png" width="400">
+
+There are some changes in the ranking of total number of publications by areas between the two decades, of course. Not surprising, with the continued prosperity of information technology and whole lot of internet-based buisness and applications, publications related to computer science was catching up pretty fast. However, some of the traditionally "publication heavy" areas such as medicine, engineering and physics remained on top of the ranking
