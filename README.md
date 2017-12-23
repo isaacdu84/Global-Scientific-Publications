@@ -55,5 +55,23 @@ The United States has been the absolute leading force in the number of publicati
 <img src="images/TotPub_bubble1996.png" width="400"><img src="images/TotPub_bubble2016.png" width="400">
 
 ### Shape of research
-![](images/SR_US.gif)
-<img src="images/SR_US.gif" width="400">
+<img src="images/SR_US.gif" width="500">
+I call it "shape of research" because by looking at the number of publications in various fields would give us a rough idea of how a country is dedicating its major efforts to. For example, we see from the plot above that medicine research is very likely a major part of the research endeavors of the US. It remained so for the past twenty years despite the boom in the IT area. In contrast, China, another major contributor with growing roles in the research publications, start off with focuses on basic disciplines such as engineering, material science, physics and chemistry in 1996, but has gradually stepped more into the areas like neuroscience, medicine, computer sciences etc.
+
+However, we should also be cautious not to over-interpret the pattern. A confounding fact would be that some areas (more research-oriented, if you will) are likely to have more publications compared to areas that are more practical. For example, scientists in the area of medicine research normally announce their research findings via scientific papers, whereas engineers may choose to register their achievements as patents besides describing them in papers.
+
+### Changing as a world
+<img src="images/SR_World.png" width="500">
+
+From the above discussion we might have the impression that engineering, medicine or natural sciences have claimed the majority of the increase in publications. It may be true but not 100 percent. If we take a look at the increase of number of publications by area relative to the 1996 level, we would be surprised to find out that non-STEM fields (namely business, social sciences, psychology etc.) take the lead. 
+
+### Number vs. citation
+We all realize that the number of publications does not tell the whole story. The number of citations of a publication shows the impact of an article. The SJR dataset provided us this number by area, country and year as well. 
+
+The scatter plot below shows number of citations vs. number of publications by country. Interestingly, we could visually identify two "branches". Countries in the first branch generally have (comparably) higher number of citations vs. publications. Most developed countries are in this group. In contrast, the second branch, consisting of countries mostly from the third world (e.g. China and India) have lower citation-to-publication ratio. This could mean two things:
+1. The number of citations is not a static number. As these countries are publishing more papers only in recent years, we could anticipate the citation-to-publication ratio to change with time.
+2. The level of recognition for these research outcomes from these countries have not yet been comparable to that of the developed countries. This could also be partially supported by the high percentage of self-citation (citations that come from authors who were also involved in the cited article).
+
+<img src="image/Citation_total.png" width="500">
+
+_**If you would like to learn more about the analysis or would like to check out the Python codes to explore more, do not hestiate to fork the scripts. Of course, any comments (coding, analysis, interpretation, anything) would be greatlt appreciated!**_
