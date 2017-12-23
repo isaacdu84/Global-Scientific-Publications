@@ -36,3 +36,4 @@ for year in yr:
 ```
 The rest of the scripts were wrangling with scraped data. If interested, please check out the jupyter notebook file in this repository.
 ## Fun part - Story
+![](/images/WorldPubs_area.png =100x50)
