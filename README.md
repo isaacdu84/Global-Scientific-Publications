@@ -1,4 +1,5 @@
-# Global Scientific Publications
+**tags: `data mining`**
+
 This repository is a data mining project that scrape and analyzed data from the [SCImago Journal & Country Ranking dataset](http://www.scimagojr.com/countryrank.php).
 
 The objective of this project is to analyze and visualize the change of number and trend of the publications among countries and fields for the past two decades (1996 - 2016).
