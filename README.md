@@ -56,7 +56,7 @@ The United States has been the absolute leading force in the number of publicati
 <img src="images/TotPub_bubble1996.png" width="400"><img src="images/TotPub_bubble2016.png" width="400">
 
 ### Shape of research
-<img src="images/SR_US.gif" width="500">
+<img src="images/SR_US.gif" width="500"><br />
 I call it "shape of research" because by looking at the number of publications in various fields would give us a rough idea of how a country is dedicating its major efforts to. For example, we see from the plot above that medicine research is very likely a major part of the research endeavors of the US. It remained so for the past twenty years despite the boom in the IT area. In contrast, China, another major contributor with growing roles in the research publications, start off with focuses on basic disciplines such as engineering, material science, physics and chemistry in 1996, but has gradually stepped more into the areas like neuroscience, medicine, computer sciences etc.
 
 However, we should also be cautious not to over-interpret the pattern. A confounding fact would be that some areas (more research-oriented, if you will) are likely to have more publications compared to areas that are more practical. For example, scientists in the area of medicine research normally announce their research findings via scientific papers, whereas engineers may choose to register their achievements as patents besides describing them in papers.
